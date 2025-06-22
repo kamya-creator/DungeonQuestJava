@@ -22,6 +22,7 @@ This project showcases practical usage of **Object-Oriented Programming**, **Jav
 > *“Fight the Skeleton… Flee from the Ogre… or wield your Sword to victory!”*
 
 > You can run the game in any Java console and experience the dungeon firsthand.
+> https://youtu.be/aWp_B3voSiE
 
 ---
 
